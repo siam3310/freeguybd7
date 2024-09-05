@@ -1,7 +1,7 @@
 ---
-title: "Fearlessness: How to Stop Running from Space"
+title: "Fearlessness: Tiger Zinda Hai"
 description: "This post uses an external image as a thumbnail"
-date: 2020-02-11T17:30
+date: 2024-12-10T17:30
 thumb: "https://i.imgur.com/AAVR2qH.jpg"
 tags: 
     - tips
